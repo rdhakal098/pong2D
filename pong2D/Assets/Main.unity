@@ -267,7 +267,6 @@ MonoBehaviour:
   speed: 5
   rb: {fileID: 244336231}
   startPosition: {x: 0, y: 0, z: 0}
-  GameManager: {fileID: 0}
 --- !u!1 &286316378
 GameObject:
   m_ObjectHideFlags: 0
